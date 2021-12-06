@@ -1,0 +1,25 @@
+{
+  "name": "github-cli-inquirer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajverma2587/github-cli-inquirer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajverma2587/github-cli-inquirer/issues"
+  },
+  "homepage": "https://github.com/surajverma2587/github-cli-inquirer#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "console-table-printer": "^2.10.0",
+    "inquirer": "^8.2.0"
+  }
+}
